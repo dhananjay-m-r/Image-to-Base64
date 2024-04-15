@@ -1,0 +1,10 @@
+C:\Users\dhana\OneDrive - Dhananjay @ Microsoft\C#\Image to Base 64\Landscape\Image to Base64\Image to Base64 with Export\Image to Base64 with Export\bin\Debug\Image to Base64 with Export.exe.config
+C:\Users\dhana\OneDrive - Dhananjay @ Microsoft\C#\Image to Base 64\Landscape\Image to Base64\Image to Base64 with Export\Image to Base64 with Export\bin\Debug\Image to Base64 with Export.exe
+C:\Users\dhana\OneDrive - Dhananjay @ Microsoft\C#\Image to Base 64\Landscape\Image to Base64\Image to Base64 with Export\Image to Base64 with Export\bin\Debug\Image to Base64 with Export.pdb
+C:\Users\dhana\OneDrive - Dhananjay @ Microsoft\C#\Image to Base 64\Landscape\Image to Base64\Image to Base64 with Export\Image to Base64 with Export\obj\Debug\Image to Base64 with Export.csproj.AssemblyReference.cache
+C:\Users\dhana\OneDrive - Dhananjay @ Microsoft\C#\Image to Base 64\Landscape\Image to Base64\Image to Base64 with Export\Image to Base64 with Export\obj\Debug\Image_to_Base64_with_Export.Form1.resources
+C:\Users\dhana\OneDrive - Dhananjay @ Microsoft\C#\Image to Base 64\Landscape\Image to Base64\Image to Base64 with Export\Image to Base64 with Export\obj\Debug\Image_to_Base64_with_Export.Properties.Resources.resources
+C:\Users\dhana\OneDrive - Dhananjay @ Microsoft\C#\Image to Base 64\Landscape\Image to Base64\Image to Base64 with Export\Image to Base64 with Export\obj\Debug\Image to Base64 with Export.csproj.GenerateResource.cache
+C:\Users\dhana\OneDrive - Dhananjay @ Microsoft\C#\Image to Base 64\Landscape\Image to Base64\Image to Base64 with Export\Image to Base64 with Export\obj\Debug\Image to Base64 with Export.csproj.CoreCompileInputs.cache
+C:\Users\dhana\OneDrive - Dhananjay @ Microsoft\C#\Image to Base 64\Landscape\Image to Base64\Image to Base64 with Export\Image to Base64 with Export\obj\Debug\Image to Base64 with Export.exe
+C:\Users\dhana\OneDrive - Dhananjay @ Microsoft\C#\Image to Base 64\Landscape\Image to Base64\Image to Base64 with Export\Image to Base64 with Export\obj\Debug\Image to Base64 with Export.pdb
